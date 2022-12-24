@@ -1,0 +1,65 @@
+body {
+    height:100vh;
+    background:green;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.a{
+  
+   display:flex;
+   font-size: 13.5px;
+  
+}
+.aa{
+  
+    display:flex;
+    font-size: 12px;
+  
+ }
+ .love-test{
+    width : 50vw;
+    height: 30vh;
+    background:red;
+   align-items: center;
+   padding:3rem;
+   border-radius:4rem;
+ }
+ #yourname{
+     margin-bottom: 5px;
+     border-radius: 10px;
+     
+ }
+ #patnername{
+    margin-bottom: 5px;
+    border-radius: 10px;
+ }
+ .b{
+    margin:25px;
+    padding:5px;
+    font-size:1rem;
+    border: 1px solid blue;
+    margin-left: 35%;
+    cursor: pointer;
+ }
+ .pre{
+    margin:25px;
+    padding:5px;
+    font-size:1rem;
+    margin-left: 35%;
+    margin-top:-20px;
+    transition:5s;
+
+
+ }
+ h1{
+    position: absolute;
+    text-align:center;
+    margin-top: -20rem;
+    font-size:6rem;
+    color:red;
+ }
+ .b:hover{
+    background:blue;
+ }
